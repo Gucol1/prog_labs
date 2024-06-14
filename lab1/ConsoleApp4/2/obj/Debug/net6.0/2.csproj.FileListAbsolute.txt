@@ -1,0 +1,30 @@
+C:\Users\xboxg\source\repos\ConsoleApp4\2\bin\Debug\net6.0\2.exe
+C:\Users\xboxg\source\repos\ConsoleApp4\2\bin\Debug\net6.0\2.deps.json
+C:\Users\xboxg\source\repos\ConsoleApp4\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\Users\xboxg\source\repos\ConsoleApp4\2\bin\Debug\net6.0\2.dll
+C:\Users\xboxg\source\repos\ConsoleApp4\2\bin\Debug\net6.0\2.pdb
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.dll
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\refint\2.dll
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.pdb
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\Users\xboxg\source\repos\ConsoleApp4\2\obj\Debug\net6.0\ref\2.dll
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\bin\Debug\net6.0\2.exe
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\bin\Debug\net6.0\2.deps.json
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\bin\Debug\net6.0\2.dll
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\bin\Debug\net6.0\2.pdb
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.dll
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\refint\2.dll
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.pdb
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\Users\xboxg\OneDrive\Рабочий стол\Лабораторная работа №1 Гуцол Степан РИС-22-3\ConsoleApp4\2\obj\Debug\net6.0\ref\2.dll
